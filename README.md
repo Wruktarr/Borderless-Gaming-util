@@ -2,7 +2,7 @@
 
 # What is this?
 
-[Codeusa@GitHub/Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) is a simple tool that will allow you to turn your windowed video games into "fullscreen" applications without all of the negative side effects
+[Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) is a simple tool that will allow you to turn your windowed video games into "fullscreen" applications without all of the negative side effects
 
 The project is open source under the [GNU General Public License v2.0](https://github.com/Codeusa/Borderless-Gaming/blob/master/LICENSE).
 
@@ -54,3 +54,6 @@ or if you're suffering from crashes or bugs submit information [here](https://gi
 
 # Join our Steam Group!
 [Borderless Gaming on Steam](https://steamcommunity.com/app/388080/discussions/)
+
+#
+_This is forked repo from [Codeusa@GitHub/Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming)._
