@@ -1,8 +1,8 @@
-# [Buy it on Steam!](http://store.steampowered.com/app/388080)
+# [Support original creators by using updated Steam version](https://store.steampowered.com/app/388080)
 
 # What is this?
 
-Borderless Gaming is a simple tool that will allow you to turn your windowed video games into "fullscreen" applications without all of the negative side effects
+[Codeusa@GitHub/Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) is a simple tool that will allow you to turn your windowed video games into "fullscreen" applications without all of the negative side effects
 
 The project is open source under the [GNU General Public License v2.0](https://github.com/Codeusa/Borderless-Gaming/blob/master/LICENSE).
 
